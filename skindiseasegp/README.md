@@ -1,16 +1,23 @@
-# skindiseasegp
+•	User Authentication
 
-A new Flutter project.
+•	Users can sign up, log in, and log out securely.
 
-## Getting Started
+•	Skin Image Upload & Prediction
 
-This project is a starting point for a Flutter application.
+•	Users can upload an image of a skin lesion.
 
-A few resources to get you started if this is your first Flutter project:
+•	The integrated AI model analyzes the image and predicts one of 6 skin cancer types.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+•	The model provides a diagnosis with up to 90% accuracy.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+•	Prediction History.
+
+•	All past predictions are saved.
+
+•	Users can view their previous diagnoses and cancer types anytime.
+
+•	Skin Health Awareness.
+
+•	A dedicated section offers articles and news about skin diseases.
+
+•	Helps educate users and raise awareness about skin health.
