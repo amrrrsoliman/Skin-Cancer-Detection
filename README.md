@@ -1,5 +1,7 @@
 **project code uploaded in the master Branch**
 
+Skin Cancer Detection AI-Powered System:
+
 •	User Authentication
 
 •	Users can sign up, log in, and log out securely.
