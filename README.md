@@ -1,4 +1,4 @@
-# Skin Cancer Detection 🩺
+# Skin Cancer Detection 🩺 (Project code is uploaded in the master branch)
 
 **Project code is uploaded in the master branch.**
 
