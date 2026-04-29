@@ -1,8 +1,6 @@
 # Skin Cancer Detection 🩺
+#This repository contains an AI-powered system for skin cancer detection. The system allows users to upload images of skin lesions, which are analyzed by an integrated deep learning model to predict one of six skin cancer types with up to 90% accuracy.#
 
-**Project code is uploaded in the master branch.**
-
-This repository contains an AI-powered system for skin cancer detection. The system allows users to upload images of skin lesions, which are analyzed by an integrated deep learning model to predict one of six skin cancer types with up to 90% accuracy.
 
 ---
 
